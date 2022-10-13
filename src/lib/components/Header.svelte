@@ -14,13 +14,13 @@
 	>
 		<a href="/" class="h-full flex place-items-center"><Logo /></a>
 		<ul class="md:flex hidden flex-row items-baseline gap-3">
-			<li><a href="#">关于</a></li>
-			<li><a href="#">关于</a></li>
-			<li><a href="#">关于</a></li>
+			<li><a href="#">About</a></li>
+			<li><a href="#">Nav2</a></li>
+			<li><a href="#">Nav3</a></li>
 		</ul>
 		<button
 			class="bg-purple-600 text-white rounded px-3 py-2 flex flex-row gap-2 place-items-center"
-			>加入社团 <Icon icon="form" /></button
+			>Join <Icon icon="form" /></button
 		>
 	</nav>
 </header>

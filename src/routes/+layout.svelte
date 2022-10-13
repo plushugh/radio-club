@@ -4,6 +4,6 @@
 </script>
 
 <Header />
-<main class="font-serif">
+<div class="font-serif">
 	<slot />
-</main>
+</div>
